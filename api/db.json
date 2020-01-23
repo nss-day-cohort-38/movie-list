@@ -1,0 +1,24 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Duck Soup",
+      "yearReleased": 1932
+    },
+    {
+      "id": 2,
+      "title": "Horse Feathers",
+      "yearReleased": 1931
+    },
+    {
+      "id": 3,
+      "title": " Monkey Business",
+      "yearReleased": 1931
+    },
+    {
+      "id": 4,
+      "title": "Animal Crackers",
+      "yearReleased": 1930
+    }
+  ]
+}
